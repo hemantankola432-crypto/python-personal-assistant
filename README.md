@@ -137,7 +137,8 @@ This project is created for educational and learning purposes.
 
 ## 👩‍💻 Author
 
-**Shruthi Barla**
+**hemant ankola**
+
 
 ---
 
